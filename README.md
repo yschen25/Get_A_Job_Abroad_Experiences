@@ -8,14 +8,14 @@
 ​
 紀錄從剛出社會慘不忍睹的履歷一路到收到大公司面試邀約的履歷，利用這段期間摸索、學習、請教人的經驗，後續幫多人潤飾履歷，甚至讓求職者從沒有面試機會到收到面試邀約，最後還拿到 offer。
 
-* [國外找工作 :: 收到 Meta (Facebook)、Amazon、Booking.com, Cisco, Yelp 等公司邀約 - 履歷篇](https://yschen25.blogspot.com/2020/08/work-oversea-resume-cv.html)
+* [國外找工作 :: 收到 Meta (Facebook), Amazon, Booking, Cisco, Yelp 等公司邀約 - 履歷篇](https://yschen25.blogspot.com/2020/08/work-oversea-resume-cv.html)
 
 <br/>
 
 
 從 recruiter 的視角分析怎麼撰寫和整理 LinkedIn 才能吸引 head hunter, recruiter 和你聯絡，包括客製化 headline、更改地區、擴大聯絡網、邀請人寫推薦信等。
 
-* [國外找工作 :: 收到 Meta (Facebook)、Amazon、Booking.com, Cisco, Yelp 等公司邀約 - Linkedin 篇](https://yschen25.blogspot.com/2022/11/work-oversea-resume-linkedin.html)
+* [國外找工作 :: 收到 Meta (Facebook), Amazon, Booking, Cisco, Yelp 等公司邀約 - Linkedin 篇](https://yschen25.blogspot.com/2022/11/work-oversea-resume-linkedin.html)
 
 <br/>
 
@@ -24,7 +24,7 @@
 
 我自己是另外還寫了網站式履歷，在面試過程中還有一邊寫 blog，意外的很多面試官看，還特別喜歡互動式網站式履歷，也很欣賞我在 blog 上堅持分享技術和經驗的態度與精神。
 
-* [國外找工作 :: 收到 Meta (Facebook)、Amazon、Booking.com, Cisco, Yelp 等公司邀約 - Github、網站式履歷、Blog 篇](https://yschen25.blogspot.com/2022/11/work-oversea-github-portfolio.html)
+* [國外找工作 :: 收到 Meta (Facebook), Amazon, Booking, Cisco, Yelp 等公司邀約 - Github、網站式履歷、Blog 篇](https://yschen25.blogspot.com/2022/11/work-oversea-github-portfolio.html)
 
 
 
@@ -32,6 +32,7 @@
 <br/>
 
 ## 國外求職面試準備
+
 關於 coding, online assessment assignment, system design interview 等如何準備和注意事項。
 
 另外整理了面試題庫資源包括 behavior questions 如何回答的技巧與範例、面試用語如 small talk、沒有聲音、畫面時怎麼詢問等、和問面試官的問題。
@@ -127,7 +128,7 @@
 
 * [有長期服藥需求如何在當地找替代藥、如何到英國生活](https://yschen25.blogspot.com/2021/07/taiwan-united-kingdom-medicines.html)​
 * [Babylon GP at hand，不用身體不舒服還要撐去醫院、不用花費大把時間等候、而且還是線上免費看診](https://yschen25.blogspot.com/2021/08/united-kingdom-babylon-gp-at-hand.html)​
-* [在英國確診菊池病 (Kikuchi-fujimoto disease) -  約不到 GP ，111 打不通，只好 walk-in 看診，經歷過這些後真心覺得要珍惜台灣醫療](https://yschen25.blogspot.com/2021/11/united-kingdom-gp-walkin-kikuchi-fujimoto.html)​
+* [在英國確診菊池病 (Kikuchi-fujimoto disease) - 約不到 GP，111 打不通，只好 walk-in 看診，經歷過這些後真心覺得要珍惜台灣醫療](https://yschen25.blogspot.com/2021/11/united-kingdom-gp-walkin-kikuchi-fujimoto.html)​
 * [很不舒服了還要在英國看醫生好不安，倒底該怎麼敘述病情](https://yschen25.blogspot.com/2021/08/see-a-doctor-in-united-kingdom.html)
 ​
 
@@ -158,6 +159,7 @@
 
 
 ## LeetCode 筆記
+
 記錄了我覺得比較適合的順序刷 LeetCode。同時整理了根據官方統計常出現的題型，和自製做為刷題複習用的 excel 表格之檔案供下載。
 ​
 * [學習筆記 :: 用 JavaScript 刷 LeetCode 00 - 演算法 Time complexity (時間複雜度) & Space complexity (空間複雜度) 分析](https://yschen25.blogspot.com/2022/03/leetcode-time-space-complexity.html)​
