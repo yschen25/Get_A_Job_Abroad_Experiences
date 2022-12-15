@@ -171,3 +171,12 @@
 * [學習筆記 :: 用 JavaScript 刷 LeetCode 06 - Heap (堆疊) 講解，附題目連結整理表下載](https://yschen25.blogspot.com/2022/06/javascript-leetcode-06-heap.html)
 * [學習筆記 :: 用 JavaScript 刷 LeetCode 07 - Graph (圖) 講解，附題目連結整理表下載](https://yschen25.blogspot.com/2022/06/javascript-leetcode-07-graph.html)​
 * [學習筆記 :: 用 JavaScript 刷 LeetCode 08 - Greedy Algorithm (貪婪演算法) 講解，附題目連結整理表下載](https://yschen25.blogspot.com/2022/06/javascript-leetcode-08-greedy-algorithm.html)
+
+
+<br/>
+<br/>
+
+## Buy me a coffee
+
+如果我有幫助到你，可以補助我一下咖啡費用 : P <br/><br/>
+<a href="https://www.buymeacoffee.com/yschen25" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&amp;emoji=☕&amp;slug=yschen25&amp;button_colour=5F7FFF&amp;font_colour=ffffff&amp;font_family=Comic&amp;outline_colour=000000&amp;coffee_colour=FFDD00" /></a>
