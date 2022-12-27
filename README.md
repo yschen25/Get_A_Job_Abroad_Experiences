@@ -149,7 +149,7 @@
 
 ## 其它
 
-* [英國工作 / 打工度假你不能不知道的權益](https://yschen25.blogspot.com/2022/01/work-salary-payslip.html) ​
+* [英國工作 / 打工度假 YMS (tier 5)，你不能不知道的工作合約、薪資單權益](https://yschen25.blogspot.com/2022/01/work-salary-payslip.html) ​
 * [在英國當面試官面試其他 junior 工程師之經驗](https://yschen25.blogspot.com/2021/12/united-kingtom-interviewer-interviewee-junior-engineer.html)
 * [拿到 YMS (Tier 5) 想找工程師工作，來英國前可以先做什麼?](https://yschen25.blogspot.com/2022/01/yms-tier5-engineer.html)
 ​
@@ -179,4 +179,4 @@
 ## Buy me a coffee
 
 如果我有幫助到你，可以補助我一下咖啡費用 : P <br/><br/>
-<a href="https://www.buymeacoffee.com/yschen25" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&amp;emoji=☕&amp;slug=yschen25&amp;button_colour=5F7FFF&amp;font_colour=ffffff&amp;font_family=Comic&amp;outline_colour=000000&amp;coffee_colour=FFDD00" /></a>
+<script data-coffee-color="#ffffff" data-color="#FFDD00" data-emoji="" data-font-color="#000000" data-font="Cookie" data-name="bmc-button" data-outline-color="#000000" data-slug="yschen25" data-text="Buy me a coffee" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" type="text/javascript"></script>
