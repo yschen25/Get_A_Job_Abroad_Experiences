@@ -149,7 +149,7 @@
 
 ## 其它
 
-* [英國工作 / 打工度假 YMS (tier 5)，你不能不知道的工作合約、薪資單權益](https://yschen25.blogspot.com/2022/01/work-salary-payslip.html) ​
+* [英國工作 / 打工度假 YMS (tier 5)，你不能不知道的工作合約、薪資單權益](https://yschen25.blogspot.com/2022/12/uk-work-salary-payslip-tax-contract.html) ​
 * [在英國當面試官面試其他 junior 工程師之經驗](https://yschen25.blogspot.com/2021/12/united-kingtom-interviewer-interviewee-junior-engineer.html)
 * [拿到 YMS (Tier 5) 想找工程師工作，來英國前可以先做什麼?](https://yschen25.blogspot.com/2022/01/yms-tier5-engineer.html)
 ​
