@@ -71,6 +71,16 @@
 
 * [國外找工作 :: System design interview 不是比誰口才比較好](https://yschen25.blogspot.com/2022/07/system-design-interview.html)
 
+<br/>
+
+圖解加文字解釋英國工作合約和薪資單要如何看，報帳好自己的權益外。
+
+* [英國工作 / 打工度假 YMS (tier 5)，你不能不知道的工作合約、薪資單權益](https://yschen25.blogspot.com/2022/12/uk-work-salary-payslip-tax-contract.html)
+
+<br/>
+
+
+
 
 <br/>
 <br/>
@@ -79,7 +89,7 @@
 
 自從辦理英國工簽可以不一定要回台灣後，可以考的考試就變多種了，在英國境內根據官方資料合格的考試機構有四種，可以根據文章中我蒐集的資料挑選適合你的考試項目。
 
-* [在英國申請工作簽證所需英文證明的合格提供機構、考試形式、分數評測方式、成績出來時間等解說](https://yschen25.blogspot.com/2023/03/skilled-worker-tier2-visa-english.html)
+* [英國工作簽證英文能力要求：合格證明機構、考試形式、分數評估及成績公布時間解說](https://yschen25.blogspot.com/2023/03/skilled-worker-tier2-visa-english.html)
 
 <br/>
 
@@ -177,4 +187,13 @@
 * [學習筆記 :: 用 JavaScript 刷 LeetCode 06 - Heap (堆疊) 講解，附題目連結整理表下載](https://yschen25.blogspot.com/2022/06/javascript-leetcode-06-heap.html)
 * [學習筆記 :: 用 JavaScript 刷 LeetCode 07 - Graph (圖) 講解，附題目連結整理表下載](https://yschen25.blogspot.com/2022/06/javascript-leetcode-07-graph.html)​
 * [學習筆記 :: 用 JavaScript 刷 LeetCode 08 - Greedy Algorithm (貪婪演算法) 講解，附題目連結整理表下載](https://yschen25.blogspot.com/2022/06/javascript-leetcode-08-greedy-algorithm.html)
+
+​<br/>
+<br/>
+
+## Author
+[Yi-Shiuan Chen](https://www.linkedin.com/in/yschen25) <br/>
+yschen25@gmail.com
+
+
 
