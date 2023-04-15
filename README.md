@@ -72,12 +72,15 @@
 * [國外找工作 :: System design interview 不是比誰口才比較好](https://yschen25.blogspot.com/2022/07/system-design-interview.html)
 
 <br/>
+<br/>
 
-圖解加文字解釋英國工作合約和薪資單要如何看，報帳好自己的權益外。
+
+
+## 工作合約
+
+圖解加文字解釋英國工作合約和薪資單要如何看，保障好自己的權益。
 
 * [英國工作 / 打工度假 YMS (tier 5)，你不能不知道的工作合約、薪資單權益](https://yschen25.blogspot.com/2022/12/uk-work-salary-payslip-tax-contract.html)
-
-<br/>
 
 
 
@@ -117,6 +120,7 @@
 <br/>
 <br/>
 
+
 ## 心路歷程
 
 如果覺得找國外工作很辛苦，你不孤單，本來這條路就沒那麼容易。
@@ -137,6 +141,7 @@
 
 <br/>
 <br/>
+
 
 ## 英國醫療
 
