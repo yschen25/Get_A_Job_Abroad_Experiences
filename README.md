@@ -147,7 +147,7 @@
 
 身為一個長期身體很差的人先幫大家探路了，各式英國藥局買藥、診所看診、急診、開刀我都遇過一輪了，以下文章為親身血淋淋紀錄，希望可以讓大家在異國生活多點資料參考，少受點委屈。
 
-* [有長期服藥需求如何在當地找替代藥、如何到英國生活](https://yschen25.blogspot.com/2021/07/taiwan-united-kingdom-medicines.html)​
+* [有長期處方用藥需求如何申請、攜帶出境，並在英國尋找替代藥](https://yschen25.blogspot.com/2021/07/taiwan-united-kingdom-medicines.html)​
 * [Babylon GP at hand，不用身體不舒服還要撐去醫院、不用花費大把時間等候、而且還是線上免費看診](https://yschen25.blogspot.com/2021/08/united-kingdom-babylon-gp-at-hand.html)​
 * [在英國確診菊池病 (Kikuchi-fujimoto disease) - 約不到 GP，111 打不通，只好 walk-in 看診，經歷過這些後真心覺得要珍惜台灣醫療](https://yschen25.blogspot.com/2021/11/united-kingdom-gp-walkin-kikuchi-fujimoto.html)​
 * [很不舒服了還要在英國看醫生好不安，倒底該怎麼敘述病情](https://yschen25.blogspot.com/2021/08/see-a-doctor-in-united-kingdom.html)
