@@ -137,7 +137,7 @@
 
 比如工作進度透明化、在對的事情上負責任、和主管約每周 one on one 等。
 
-* [我會跟當年剛成為工程師的自己說](https://yschen25.blogspot.com/2021/09/what-programmer-thought.html)
+* [我會跟當年剛成為工程師的自己說...](https://yschen25.blogspot.com/2021/09/what-programmer-thought.html)
 
 <br/>
 <br/>
@@ -161,7 +161,7 @@
 
 碩士時去德國交換，後來在英國工作的三個國家食衣住行文化等的比較。
 
-* [台灣、英國、德國生活比較](https://yschen25.blogspot.com/2021/05/taiwan-unitedkindom-germany-life-comparison.html)​
+* [台灣、英國、德國生活比較 (持續更新中)](https://yschen25.blogspot.com/2021/05/taiwan-unitedkindom-germany-life-comparison.html)​
 
 
 <br/>
