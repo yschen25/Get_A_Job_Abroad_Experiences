@@ -85,6 +85,10 @@
 * [國外找工作 :: 走向國外你需要的不只是英文，還有薪資談判技巧](https://yschen25.blogspot.com/2023/04/salary-negotiation.html)
 
 
+<br/>
+<br/>
+
+
 
 ## 工作合約
 
@@ -94,10 +98,10 @@
 
 * [國外找工作 :: 英國工作 / 打工度假 YMS (tier 5)，你不能不知道的工作合約、薪資單權益](https://yschen25.blogspot.com/2022/12/uk-work-salary-payslip-tax-contract.html)
 
-
-
 <br/>
 <br/>
+
+
 
 ## 英文準備
 
