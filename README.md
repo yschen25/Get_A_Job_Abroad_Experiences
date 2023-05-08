@@ -75,13 +75,24 @@
 <br/>
 
 
+## 薪水協商
+
+找工作時常會遇到 recruiter 或 head hunter 想約個 initial phone call 聊聊，然後他們通常會問一些薪水相關問題如 : 你現在薪水多少? 預期的薪水又是多少?
+如果回答了，那這樣有可能會導致什麼後果? 還有拿到 offer 後不是很滿意薪水或是福利，那要如何談判呢?
+
+這篇文章就是要來想分享一下，根據自己和朋友經驗及網路上蒐集的資料，如何應對這些問題並提高薪水。
+
+* [國外找工作 :: 走向國外你需要的不只是英文，還有薪資談判技巧](https://yschen25.blogspot.com/2023/04/salary-negotiation.html)
+
+
 
 ## 工作合約
 
 圖解加文字解釋英國工作合約和薪資單要如何看，保障好自己的權益。
 
-* [國外找工作 :: 英國工作 / 打工度假 YMS (tier 5)，你不能不知道的工作合約、薪資單權益](https://yschen25.blogspot.com/2022/12/uk-work-salary-payslip-tax-contract.html)
+雖然英文一堆密密麻麻的，但事關個人權益，務必花時間靜下來心來好好研究。像我比較過三份合約...果然黑心公司還是不分國家，不然好不容易過了五六關的面試，最後簽一個對自己不利的合約真的很虧。
 
+* [國外找工作 :: 英國工作 / 打工度假 YMS (tier 5)，你不能不知道的工作合約、薪資單權益](https://yschen25.blogspot.com/2022/12/uk-work-salary-payslip-tax-contract.html)
 
 
 
