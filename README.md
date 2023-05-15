@@ -132,8 +132,11 @@
 
 * [英文我知道聽讀寫，不知道怎麼開口說](https://yschen25.blogspot.com/2021/08/howtospeakenglish.html)
 
+
 <br/>
 <br/>
+
+
 
 
 ## 心路歷程
@@ -154,8 +157,12 @@
 
 * [我會跟當年剛成為工程師的自己說...](https://yschen25.blogspot.com/2021/09/what-programmer-thought.html)
 
+
+
+
 <br/>
 <br/>
+
 
 
 ## 英國醫療
@@ -185,8 +192,9 @@
 
 ## 其它
 
+* [國外找工作 :: Wise, Revolut, Monzo 台灣匯錢到國外，海外匯錢回台灣，匯率好手續費低只需帶少量現金](https://yschen25.blogspot.com/2020/10/transferwise-monzo-revolut.html)
 * [在英國當面試官面試其他 junior 工程師之經驗](https://yschen25.blogspot.com/2021/12/united-kingtom-interviewer-interviewee-junior-engineer.html)
-* [拿到 YMS (Tier 5) 想找工程師工作，來英國前可以先做什麼?](https://yschen25.blogspot.com/2022/01/yms-tier5-engineer.html)
+* [疫情下在英國工程師 on board 和工作紀錄](https://yschen25.blogspot.com/2021/03/unitedkingdom-programmer-on-board.html)
 ​
 
 ​<br/>
