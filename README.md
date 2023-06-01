@@ -39,7 +39,7 @@
 
 * [國外找工作 :: Technical, behavior questions 面試題目蒐集、分類歸納與 coding, online assessment, assignment, system design interview 的準備](https://yschen25.blogspot.com/2021/01/programmer-interview-question-collection-preparation.html)
 
-* [常見的 Behavior Questions 問題集](https://hackmd.io/@6PPVul2mS7OX2GuGXlUCDA/behavior_questions)
+* [常見 Behavior Questions 問題蒐集 : 面試官想知道什麼和如何回答的提示](https://hackmd.io/@6PPVul2mS7OX2GuGXlUCDA/behavior_questions)
 
 <br/>
 
