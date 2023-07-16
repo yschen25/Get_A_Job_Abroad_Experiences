@@ -24,7 +24,7 @@
 
 我自己是另外還寫了網站式履歷，在面試過程中還有一邊寫 blog，意外的很多面試官看，還特別喜歡互動式網站式履歷，也很欣賞我在 blog 上堅持分享技術和經驗的態度與精神。
 
-* [如何讓 FAANG 的人資一眼看上你 - Github、網站式履歷、Blog 篇](https://yschen25.blogspot.com/2022/11/work-oversea-github-portfolio.html)
+* [如何讓 FAANG 的人資一眼看上你 - Github、Blog、互動式履歷網站篇](https://yschen25.blogspot.com/2022/11/work-oversea-github-portfolio.html)
 
 
 
