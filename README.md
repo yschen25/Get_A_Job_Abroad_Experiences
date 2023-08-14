@@ -194,7 +194,7 @@
 
 ## 其它
 
-* [不用拿到 offer 就可以申請到英國生活、找工作的三種簽證 - Global Talent Visa, Youth Mobility Scheme Visa 和 High Potential Individual](https://yschen25.blogspot.com/2023/08/global-talent-visa-youth-mobility-scheme-high-potential-individual.html)
+* [不用拿到 offer 就可以申請到英國生活的三種簽證 - Global Talent Visa, Youth Mobility Scheme Visa 和 High Potential Individual](https://yschen25.blogspot.com/2023/08/global-talent-visa-youth-mobility-scheme-high-potential-individual.html)
 * [Wise, Revolut, Monzo 台灣匯錢到國外，海外匯錢回台灣，匯率好手續費低只需帶少量現金](https://yschen25.blogspot.com/2020/10/transferwise-monzo-revolut.html)
 * [在英國當面試官面試其他 Junior 工程師之經驗](https://yschen25.blogspot.com/2021/12/united-kingtom-interviewer-interviewee-junior-engineer.html)
 * [疫情下在英國工程師 on board 和工作紀錄](https://yschen25.blogspot.com/2021/03/unitedkingdom-programmer-on-board.html)
