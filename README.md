@@ -21,7 +21,6 @@
 
 
 如何維護你的 Github 頁面和整理作品集。
-
 我自己是另外還寫了網站式履歷，在面試過程中還有一邊寫 blog，意外的很多面試官看，還特別喜歡互動式網站式履歷，也很欣賞我在 blog 上堅持分享技術和經驗的態度與精神。
 
 * [如何讓 FAANG 的人資一眼看上你 - Github、Blog、互動式履歷網站篇](https://yschen25.blogspot.com/2022/11/work-oversea-github-portfolio.html)
@@ -34,7 +33,6 @@
 ## 面試準備
 
 關於 coding, online assessment assignment, system design interview 等如何準備和注意事項。
-
 另外整理了面試題庫資源包括 behavior questions 如何回答的技巧與範例、面試用語如 small talk、沒有聲音、畫面時怎麼詢問等、和問面試官的問題。
 
 * [面試國外工程師超詳細超過 100 道題目蒐集、分類歸納與準備](https://yschen25.blogspot.com/2021/01/programmer-interview-question-collection-preparation.html)
@@ -71,7 +69,6 @@
 <br/>
 
 增加被邀請參與面試的機率，包括自行投遞職缺、內推、主動寄信給公司等方式介紹。
-
 列舉各式各樣我遇過的 head hunter && Recruiter 類型，那要如何和對方打交道；若人在台灣怎麼安排和國外公司的面試時間​。
 
 * [找國外工作，如何有效率的跟 Head Hunter && Recruiter 打交道](https://yschen25.blogspot.com/2022/10/oversea-apply-a-job.html)
@@ -98,7 +95,6 @@
 ## 工作合約
 
 圖解加文字解釋英國工作合約和薪資單要如何看，保障好自己的權益。
-
 雖然英文一堆密密麻麻的，但事關個人權益，務必花時間靜下來心來好好研究。像我比較過三份合約...果然黑心公司還是不分國家，不然好不容易過了五六關的面試，最後簽一個對自己不利的合約真的很虧。
 
 * [英國工作 / 打工度假 YMS，你不能不知道的工作合約、薪資單權益](https://yschen25.blogspot.com/2022/12/uk-work-salary-payslip-tax-contract.html)
@@ -112,6 +108,39 @@
 * [不用拿到 offer 就可以申請到英國生活的三種簽證 - Global Talent Visa, Youth Mobility Scheme Visa 和 High Potential Individual Visa](https://yschen25.blogspot.com/2023/08/global-talent-visa-youth-mobility-scheme-high-potential-individual.html)
 * [Wise, Revolut, Monzo 台灣匯錢到國外，海外匯錢回台灣，匯率好手續費低只需帶少量現金](https://yschen25.blogspot.com/2020/10/transferwise-monzo-revolut.html)
 
+<br/>
+<br/>
+
+
+
+## 心路歷程
+
+有時在國外找工作，可能會有待業的期間；或是轉職工程師，會有沒工作的時候；或你是其他行業，都也有可能遇到同樣狀況，
+而我已待業好幾次的經驗分享可以實際執行的行為來讓自己度過待業的時間。
+
+畢竟在情緒不穩、有經濟壓力的時候，最容易做出錯誤的判斷，或是被詐騙。
+
+* [如何度過痛苦的待業時期，讓自己找到滿意且適合的公司](https://yschen25.blogspot.com/2023/10/unemployed-layoff-fired.html)
+  
+<br/>
+
+如果覺得找國外工作很辛苦，你不孤單，本來這條路就沒那麼容易。
+這兩篇文章記錄了從剛開始的各種資料準備、面試、被拒絕到收到 offer，其中包括怎麼想辦法省錢、怎麼一邊打工一邊找工作的經歷和心態調整。
+
+* [瘋了才會在疫情封城的時候跑到英國找工程師工作](https://yschen25.blogspot.com/2021/02/covid-unitedkingdom-programmer.html)
+
+* [如何保持穩定心態在異國生活與工作，給自己的筆記和提醒](https://yschen25.blogspot.com/2022/05/workabroad-mind.html)
+
+<br/>
+
+從剛任職工程師經歷幾年後才發現很多事情如果早點知道，就會少浪費點時間在不重要的事情上，或是減少不開心的頻率，讓自己更能專心在個人發展、生活與工作的平衡上。
+比如工作進度透明化、在對的事情上負責任、和主管約每周 one on one 等。
+
+* [我會跟當年剛成為工程師的自己說...](https://yschen25.blogspot.com/2021/09/what-programmer-thought.html)
+
+
+<br/>
+<br/>
 
 
 ## 英文準備
@@ -147,39 +176,6 @@
 <br/>
 <br/>
 
-
-
-
-## 心路歷程
-
-有時在國外找工作，可能會有待業的期間；或是轉職工程師，會有沒工作的時候；或你是其他行業，都也有可能遇到同樣狀況，
-而我已待業好幾次的經驗分享可以實際執行的行為來讓自己度過待業的時間。
-
-畢竟在情緒不穩、有經濟壓力的時候，最容易做出錯誤的判斷，或是被詐騙。
-
-* [如何度過痛苦的待業時期，讓自己找到滿意且適合的公司](https://yschen25.blogspot.com/2023/10/unemployed-layoff-fired.html)
-  
-<br/>
-
-如果覺得找國外工作很辛苦，你不孤單，本來這條路就沒那麼容易。
-
-這兩篇文章記錄了從剛開始的各種資料準備、面試、被拒絕到收到 offer，其中包括怎麼想辦法省錢、怎麼一邊打工一邊找工作的經歷和心態調整。
-
-* [瘋了才會在疫情封城的時候跑到英國找工程師工作](https://yschen25.blogspot.com/2021/02/covid-unitedkingdom-programmer.html)
-
-* [如何保持穩定心態在異國生活與工作，給自己的筆記和提醒](https://yschen25.blogspot.com/2022/05/workabroad-mind.html)
-
-<br/>
-
-從剛任職工程師經歷幾年後才發現很多事情如果早點知道，就會少浪費點時間在不重要的事情上，或是減少不開心的頻率，讓自己更能專心在個人發展、生活與工作的平衡上。
-
-比如工作進度透明化、在對的事情上負責任、和主管約每周 one on one 等。
-
-* [我會跟當年剛成為工程師的自己說...](https://yschen25.blogspot.com/2021/09/what-programmer-thought.html)
-
-
-<br/>
-<br/>
 
 
 
