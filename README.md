@@ -1,10 +1,10 @@
-# 英美求職 && 工作紀錄 && 心路歷程
+# 工程師英美工作求職
 
 紀錄一路轉職軟體工程師所做的努力。爾後開始找英美國工作，從撰寫履歷、查詢資料、準備面試到實際面試的詳細經驗和心路歷程，其中也包括在台灣和在英國當面試官的相關分享。
 
 <br/>
 
-## 國外求職履歷撰寫
+## 履歷、LinkedIn、Github 等撰寫技巧
 ​
 紀錄從剛出社會慘不忍睹的履歷一路到收到大公司面試邀約的履歷，利用這段期間摸索、學習、請教人的經驗，後續幫多人潤飾履歷，甚至讓求職者從沒有面試機會到收到面試邀約，最後還拿到 offer。
 
@@ -31,7 +31,7 @@
 <br/>
 <br/>
 
-## 國外求職面試準備
+## 面試準備
 
 關於 coding, online assessment assignment, system design interview 等如何準備和注意事項。
 
@@ -40,22 +40,6 @@
 * [面試國外工程師超詳細超過 100 道題目蒐集、分類歸納與準備](https://yschen25.blogspot.com/2021/01/programmer-interview-question-collection-preparation.html)
 
 * [常見 Behavior Questions 問題蒐集 : 面試官想知道什麼和如何回答的提示](https://hackmd.io/@6PPVul2mS7OX2GuGXlUCDA/behavior_questions)
-
-<br/>
-
-
-各種國家、工作和生活之事前資料查詢、介紹使用過的求職平台和心得，如 Linkedin, GlassDoor, AngelList 等。以及整理職缺內容的方式和如何撰寫 cover letter。
-
-* [應徵國外工作的前置作業，這些你都做了嗎?](https://yschen25.blogspot.com/2021/01/oversea-find-a-job.html)
-
-<br/>
-
-
-增加被邀請參與面試的機率，包括自行投遞職缺、內推、主動寄信給公司等方式介紹。
-
-列舉各式各樣我遇過的 head hunter && Recruiter 類型，那要如何和對方打交道；若人在台灣怎麼安排和國外公司的面試時間​。
-
-* [找國外工作，如何有效率的跟 Head Hunter && Recruiter 打交道](https://yschen25.blogspot.com/2022/10/oversea-apply-a-job.html)
 
 <br/>
 
@@ -73,11 +57,30 @@
 
 * [System Design Interview 不是比誰口才比較好](https://yschen25.blogspot.com/2022/07/system-design-interview.html)
 
+
 <br/>
 <br/>
 
 
-## 薪水協商
+## 開始求職
+
+各種國家、工作和生活之事前資料查詢、介紹使用過的求職平台和心得，如 Linkedin, GlassDoor, AngelList 等。以及整理職缺內容的方式和如何撰寫 cover letter。
+
+* [應徵國外工作的前置作業，這些你都做了嗎?](https://yschen25.blogspot.com/2021/01/oversea-find-a-job.html)
+
+<br/>
+
+增加被邀請參與面試的機率，包括自行投遞職缺、內推、主動寄信給公司等方式介紹。
+
+列舉各式各樣我遇過的 head hunter && Recruiter 類型，那要如何和對方打交道；若人在台灣怎麼安排和國外公司的面試時間​。
+
+* [找國外工作，如何有效率的跟 Head Hunter && Recruiter 打交道](https://yschen25.blogspot.com/2022/10/oversea-apply-a-job.html)
+
+<br/>
+<br/>
+
+
+## 薪資協商
 
 找工作時常會遇到 recruiter 或 head hunter 想約個 initial phone call 聊聊，然後他們通常會問一些薪水相關問題如 : 你現在薪水多少? 預期的薪水又是多少?
 如果回答了，那這樣有可能會導致什麼後果? 還有拿到 offer 後不是很滿意薪水或是福利，那要如何談判呢?
@@ -102,6 +105,12 @@
 
 <br/>
 <br/>
+
+
+## 資訊推薦
+
+* [不用拿到 offer 就可以申請到英國生活的三種簽證 - Global Talent Visa, Youth Mobility Scheme Visa 和 High Potential Individual Visa](https://yschen25.blogspot.com/2023/08/global-talent-visa-youth-mobility-scheme-high-potential-individual.html)
+* [Wise, Revolut, Monzo 台灣匯錢到國外，海外匯錢回台灣，匯率好手續費低只需帶少量現金](https://yschen25.blogspot.com/2020/10/transferwise-monzo-revolut.html)
 
 
 
@@ -169,8 +178,6 @@
 * [我會跟當年剛成為工程師的自己說...](https://yschen25.blogspot.com/2021/09/what-programmer-thought.html)
 
 
-
-
 <br/>
 <br/>
 
@@ -201,10 +208,8 @@
 <br/>
 
 
-## 其它
+## 上班相關
 
-* [不用拿到 offer 就可以申請到英國生活的三種簽證 - Global Talent Visa, Youth Mobility Scheme Visa 和 High Potential Individual Visa](https://yschen25.blogspot.com/2023/08/global-talent-visa-youth-mobility-scheme-high-potential-individual.html)
-* [Wise, Revolut, Monzo 台灣匯錢到國外，海外匯錢回台灣，匯率好手續費低只需帶少量現金](https://yschen25.blogspot.com/2020/10/transferwise-monzo-revolut.html)
 * [在英國當面試官面試其他 Junior 工程師之經驗](https://yschen25.blogspot.com/2021/12/united-kingtom-interviewer-interviewee-junior-engineer.html)
 * [疫情下在英國工程師 on board 和工作紀錄](https://yschen25.blogspot.com/2021/03/unitedkingdom-programmer-on-board.html)
 ​
@@ -233,6 +238,3 @@
 ## Author
 [Yi-Shiuan Chen](https://www.linkedin.com/in/yschen25) <br/>
 yschen25@gmail.com
-
-
-
