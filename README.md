@@ -57,6 +57,10 @@
 
 * [System Design Interview 不是比誰口才比較好](https://yschen25.blogspot.com/2022/07/system-design-interview.html)
 
+<br/>
+
+紀錄面試各家公司的流程和被問到的問題，有興趣可參考。
+* [面試英國各公司工程師職缺的流程與問答紀錄](https://yschen25.blogspot.com/2021/01/unitedkingdom-programmer-interview.html)
 
 <br/>
 <br/>
@@ -107,7 +111,14 @@
 
 ## 資訊推薦
 
+這邊要介紹的有三種 : Global Talent Visa、Youth Mobility Scheme Visa、High Potential Individual Visa；其中最特別的就是 ﻿Global Talent Visa，因裁員潮非常多人開始申請這種簽證，比起工簽有保障得多，不受雇主約束，要自由跳槽、離職、創業皆可，不用擔心臨時被解雇。
+
 * [不用拿到 offer 就可以申請到英國生活的三種簽證 - Global Talent Visa, Youth Mobility Scheme Visa 和 High Potential Individual Visa](https://yschen25.blogspot.com/2023/08/global-talent-visa-youth-mobility-scheme-high-potential-individual.html)
+
+<br/>
+
+詳細圖文解釋從台灣帶錢到英國、從英國匯錢回台灣的方式，內含折扣碼!
+
 * [Wise, Revolut, Monzo 台灣匯錢到國外，海外匯錢回台灣，匯率好手續費低只需帶少量現金](https://yschen25.blogspot.com/2020/10/transferwise-monzo-revolut.html)
 
 <br/>
