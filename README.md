@@ -205,6 +205,15 @@
 <br/>
 <br/>
 
+## 上班相關
+
+* [在英國當面試官面試其他 Junior 工程師之經驗](https://yschen25.blogspot.com/2021/12/united-kingtom-interviewer-interviewee-junior-engineer.html)
+* [疫情下在英國工程師 on board 和工作紀錄](https://yschen25.blogspot.com/2021/03/unitedkingdom-programmer-on-board.html)
+​
+
+​<br/>
+<br/>
+
 
 ## 台灣 && 德國 && 英國生活紀錄​
 
@@ -216,15 +225,6 @@
 <br/>
 <br/>
 
-
-## 上班相關
-
-* [在英國當面試官面試其他 Junior 工程師之經驗](https://yschen25.blogspot.com/2021/12/united-kingtom-interviewer-interviewee-junior-engineer.html)
-* [疫情下在英國工程師 on board 和工作紀錄](https://yschen25.blogspot.com/2021/03/unitedkingdom-programmer-on-board.html)
-​
-
-​<br/>
-<br/>
 
 
 ## LeetCode 筆記
