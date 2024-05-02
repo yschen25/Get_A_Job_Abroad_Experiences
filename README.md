@@ -231,8 +231,8 @@
 
 碩士時去德國交換，後來在英國工作的三個國家食衣住行文化等的比較。
 
-* [台灣、英國、德國生活比較 (持續更新中)](https://yschen25.blogspot.com/2021/05/taiwan-unitedkindom-germany-life-comparison.html)​
-
+* [居住過台灣、英國、德國之生活比較 - (上)](https://yschen25.blogspot.com/2021/06/taiwan-unitedkindom-germany-life-comparison-1.html)
+* [居住過台灣、英國、德國之生活比較 - (下)](https://yschen25.blogspot.com/2024/04/taiwan-unitedkindom-germany-life-comparison-2.html)
 
 <br/>
 <br/>
